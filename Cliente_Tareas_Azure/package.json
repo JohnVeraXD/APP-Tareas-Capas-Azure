@@ -1,0 +1,34 @@
+{
+  "name": "cliente_tareas",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.0.18",
+    "@material-tailwind/react": "^2.0.3",
+    "@react-oauth/google": "^0.12.1",
+    "axios": "^1.6.5",
+    "dotenv": "^16.3.1",
+    "forever-agent": "^0.6.1",
+    "lottie-react": "^2.4.0",
+    "next": "14.0.4",
+    "postcss": "8.4.32",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^4.12.0",
+    "react-router-dom": "^6.20.1",
+    "universal-cookie": "^6.1.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}

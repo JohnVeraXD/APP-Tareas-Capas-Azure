@@ -1,0 +1,1 @@
+export { default as CrearGrupo } from '@/pages/dashboard/Grupos/CrearGrupo'
