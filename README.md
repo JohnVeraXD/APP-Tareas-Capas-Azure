@@ -1,7 +1,12 @@
 # APP-Tareas-Capas-Azure
 Aplicación Web: Gestionar de Tareas aplicando la arquitectura en capas que incluye un cliente web con autenticación de usuarios con Google y JSON Web Token, lógica de servidor en una rest API y almacenamiento de datos usando el servicio de Microsoft Azure par PostgreSQL
 
--------------------- Interfaz principal para el inicio con Google------------------------------
+-----------------Diseño de la arquitectura en capas usada en este proyecto-----------------------
+
+![image](https://github.com/JohnVeraXD/APP-Tareas-Capas-Azure/assets/108051712/d75591ae-2b73-4304-89fb-53ef0bb59534)
+
+
+--------------------Interfaz principal para el inicio con Google------------------------------
 
 ![image](https://github.com/JohnVeraXD/APP-Tareas-Capas-Azure/assets/108051712/378ea078-f9e5-4933-ae3e-5f7f77b4543d)
 
